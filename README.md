@@ -91,14 +91,21 @@ Este guia descreve como criar, treinar e implantar um modelo de previsão direta
   }
 ``` 
 Veja o Resultado:
+
 O resultado esperado será algo como: [361.41500445154400].
+
 Teste sua aplicação:
 Utilize uma URL e uma chave para realizar requisições via cURL , Postman ou outro cliente HTTP.
 6. Monitorar e Atualizar
+
+
 Acesse o Monitoramento:
 Na aba Implantações , visualize os logs e o desempenho do endpoint.
 Atualize o Modelo:
+
 Para melhorar o desempenho, treine o modelo com novos dados e publique uma nova versão.
+
+
 7. Limpar
 Se você não pretende mais usar o serviço web, pode excluir o ponto de extremidade para evitar custos desnecessários. No Azure Machine Learning Studio , acesse o guia de ponto de extremidade e clique em Excluir , confirmando a ação.
 
