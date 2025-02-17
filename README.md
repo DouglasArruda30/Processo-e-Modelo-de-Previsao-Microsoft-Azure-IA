@@ -88,7 +88,7 @@ Este guia descreve como criar, treinar e implantar um modelo de previsão direta
     ],
     "index": [0],
     "data": [[1,1,2022,2,0,1,1,2,0.3,0.3,0.3,0.3]]
-  };
+  }
 ``` 
 Veja o Resultado:
 O resultado esperado será algo como: [361.41500445154400].
