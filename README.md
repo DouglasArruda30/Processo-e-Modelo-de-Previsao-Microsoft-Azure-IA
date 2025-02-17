@@ -1,7 +1,7 @@
 # Processo-e-Modelo-de-Previsao-Microsoft-Azure-IA
 DIO Bootcamp Microsoft AI 900
 
-# Criando um Modelo de Previsão no Azure Machine Learning
+# Modelo de Previsão no Azure Machine Learning
 
 Este guia descreve como criar, treinar e implantar um modelo de previsão diretamente pelo Portal do Azure utilizando o **Azure Machine Learning**. O exercício foi realizado como parte do **DIO Bootcamp Microsoft IA-900**.
 
